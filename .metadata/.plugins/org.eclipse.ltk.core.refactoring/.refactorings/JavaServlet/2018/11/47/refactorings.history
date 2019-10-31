@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.trungtamjava.filter&apos; to &apos;BanHangJsp/src&apos;&#x0D;&#x0A;- Original project: &apos;JavaServlet&apos;&#x0D;&#x0A;- Destination element: &apos;BanHangJsp/src&apos;&#x0D;&#x0A;- Original element: &apos;JavaServlet/src/com.trungtamjava.filter&apos;" description="Copy package" destination="=BanHangJsp/src" element1="/src&lt;com.trungtamjava.filter" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1542684713449" version="1.0"/>
+</session>

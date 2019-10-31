@@ -1,0 +1,47 @@
+INDEX VERSION 1.131
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\991676046.index
+\demo\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\600969247.index
+\ShopFashion\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3936781448.index
+\BaiTap1\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1808647475.index
+\ShopFashion\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4146416398.index
+\FashionShop\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3648031855.index
+\Bai_Tap\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\632629241.index
+\FashionShop\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1224463830.index
+\dga\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2446555967.index
+\Sach\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2694069539.index
+\ShopFashion\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\353841146.index
+\BookStore\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2668562686.index
+\FashionShop\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\104874958.index
+\FashionShop\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2646712322.index
+\ShopFashion\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3157737093.index
+\demo\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3918732245.index
+\Bai_Tap\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3085894620.index
+\BaiTap1\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3545258092.index
+\HelloWorldJava\src\main\java
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3068961077.index
+\FashionShop\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2286469750.index
+\ShopFashion\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1905214638.index
+\BaiTap1\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2654409280.index
+\bai1\src
+C:\Users\Hoang Quyet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2130839485.index
+\bai1\src
